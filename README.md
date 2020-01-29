@@ -17,3 +17,5 @@ Um quiz simples para ver como o Flutter funciona.
 - Inicialmente tive dificuldades para estilizar meus widgets, mas depende muito do tipo de widget que está sendo utilizado. Tive um progresso legal nisso. Vale lembrar que no Flutter é possível retornar apenas um único widget. Apesar que é possível aninhar widgets em outros widgets (esses de estilização/formatação) na tree, como é o caso dos widgets Column e Row, por exemplo.
 
 - PS.: Caso eu lembre de algo mais complexo, vou inserir nessa listagem até para eu mesmo ter noção do que foi visto aqui e que preciso focar para ter uma evolução no Flutter.
+
+#### O apk-release.apk e o vídeo do app funcionando estão na raiz.
